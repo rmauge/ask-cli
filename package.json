@@ -1,5 +1,5 @@
 {
-  "name": "ask-cli",
+  "name": "ask-cli-plugin",
   "version": "2.27.0",
   "description": "Alexa Skills Kit (ASK) Command Line Interfaces",
   "bin": {
