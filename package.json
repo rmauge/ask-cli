@@ -3,7 +3,7 @@
   "version": "2.27.0",
   "description": "Alexa Skills Kit (ASK) Command Line Interfaces",
   "bin": {
-    "ask": "bin/ask.js"
+    "ask_plugin": "bin/ask.js"
   },
   "engines": {
     "node": ">=8.3.0"
